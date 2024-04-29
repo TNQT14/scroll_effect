@@ -1,8 +1,17 @@
+
+https://github.com/TNQT14/scroll_effect/assets/87488896/bd041a79-152a-48b6-a423-7d420bf53f03
 # scroll_effect
 
 A new Flutter project.
 
-## Getting Started
+## Demo
+
+
+
+https://github.com/TNQT14/scroll_effect/assets/87488896/9e122eeb-b377-42a6-babe-2eb6ed042ff9
+
+
+
 
 This project is a starting point for a Flutter application.
 
